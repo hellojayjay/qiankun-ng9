@@ -35,6 +35,8 @@
     },
   ];
   ```
+  
+- 没有升级`single-spa-angular`的话，解决子项目加载报错[参考](https://github.com/umijs/qiankun/issues/618)
 
 ## 项目启动
 
