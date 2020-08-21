@@ -9,6 +9,7 @@ module.exports = (angularWebpackConfig, options) => {
     output: {
       library: `${name}-[name]`,
       libraryTarget: 'umd',
+      publicPath: 'http://localhost:7103/' // 此处为子项目的域名+端口
     },
     externals: {
       'zone.js': 'Zone',
