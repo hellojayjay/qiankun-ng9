@@ -1,0 +1,11 @@
+{
+	"/angular9": {
+		"target": "http://localhost:7103",
+		"pathRewrite": {
+			"^/angular9": ""
+		},
+		"secure": false,
+		"changeOrigin": true,
+		"logLevel": "debug"
+	}
+}
