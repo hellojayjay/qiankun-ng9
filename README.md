@@ -8,7 +8,7 @@
 
 ① 基座项目的更改：
 
-- 重新创建基座系统（原来为main，现使用`ng n mf-main`创建`mg-main`项目）
+- 重新创建基座系统（原来为main，现使用`ng n mf-main`创建`mf-main`项目）
 - 安装qiankun（`npm i qiankun -S`）
 - 子项目配置基本和官方例子相同（ `mf-main/src/app/app.component.ts`）
 - 在`app.component.html`中，添加子项目路由链接、路由出口、子项目html容器
