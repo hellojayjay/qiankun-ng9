@@ -1,5 +1,7 @@
 # qiankun-ng9
 
+## 更详细配置请参考：[从零开始qiankun+Angular](https://github.com/hellojayjay/qiankun-ng-demo)
+
 ## 项目介绍
 
 这是一个基于qiankun的微前端项目，基座系统(`mf-main`)使用angular9创建，子项目也使用angular9
