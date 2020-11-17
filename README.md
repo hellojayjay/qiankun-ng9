@@ -1,6 +1,6 @@
 # qiankun-ng9
 
-## 更详细配置请参考：[从零开始qiankun+Angular](https://github.com/hellojayjay/qiankun-ng-demo)
+## ！！！更详细配置请参考：[从零开始qiankun+Angular](https://github.com/hellojayjay/qiankun-ng-demo)
 
 ## 项目介绍
 
